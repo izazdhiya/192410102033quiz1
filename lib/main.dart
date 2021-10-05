@@ -34,30 +34,6 @@ class _MyAppState extends State<MyApp> {
     this.loadJsonData();
   }
 
-  //List product = [
-  //  {
-  //    "name": "British Propolis Reguler",
-  //    "price": 250000,
-  //    "image": "images/bpreg.jpg",
-  //    "jumlah": 2,
-  //    "deskripsi": "Suplemen Kesehatan Terbaik di Dunia"
-  //  },
-  //  {
-  //    "name": "British Propolis Green",
-  //    "price": 250000,
-  //    "image": "images/bpgreen.jpg",
-  //    "jumlah": 3,
-  //    "deskripsi": "Suplemen Kesehatan Anak Terbaik di Dunia"
-  // },
-  //  {
-  //    "name": "Belgie Pro",
-  //    "price": 650000,
-  //    "image": "images/belgie.jpg",
-  //    "jumlah": 2,
-  //    "deskripsi": "Skincare Terbaik di Dunia"
-  //  },
-  //];
-
   num total = 0;
 
   setTotal(data, index, counter) {

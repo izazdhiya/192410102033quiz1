@@ -1,6 +1,6 @@
 # Keranjang Belanja
 
-A new Flutter project.
+Tugas Matakuliah Pemrograman Berbasis Mobile
 
 ## Getting Started
 
